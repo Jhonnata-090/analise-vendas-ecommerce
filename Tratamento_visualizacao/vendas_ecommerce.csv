@@ -1,0 +1,501 @@
+id_pedido,data_pedido,cliente_id,produto,categoria,preco_unitario,quantidade,estado
+1,2025-05-16,C792,Notebook,Eletrônicos,749.78,2,RJ
+2,2024-04-01,C716,Fone Bluetooth,Eletrônicos,,2,CE
+3,2024-01-25,C928,Biografia,Livros,676.91,5,BA
+4,2024-08-06,C204,Tênis de Corrida,Esporte,848.06,2,PR
+5,2024-07-14,C227,Autoajuda,Livros,2425.24,4,CE
+6,2024-06-27,C777,Shampoo,Beleza,1740.51,1,SP
+7,2024-04-23,C266,Bicicleta,Esporte,1152.78,4,PR
+8,2024-03-25,C846,Perfume,Beleza,1835.21,2,CE
+9,2025-06-14,C941,Creme Facial,Beleza,2060.15,1,RS
+10,2025-03-04,C758,Tênis Casual,Moda,653.63,4,SC
+11,2024-03-13,C508,Autoajuda,Livros,2246.1,4,DF
+12,2025-04-08,C742,Bicicleta,Esporte,2272.23,1,MG
+13,2024-11-28,C357,Luvas,Esporte,1795.75,4,CE
+14,2024-01-30,C400,Tênis Casual,Moda,2310.42,3,RJ
+15,2024-01-29,C208,Shampoo,Beleza,2916.23,2,CE
+16,2024-03-18,C897,Ficção Científica,Livros,475.46,2,CE
+17,2024-06-23,C345,Bicicleta,Esporte,353.37,3,BA
+18,2024-07-04,C231,Carregador,Eletrônicos,2451.75,5,MG
+19,2025-02-01,C830,Biografia,Livros,2893.8,5,RS
+20,2025-04-17,C446,Luvas,Esporte,,2,RJ
+21,2024-01-26,C169,Fone Bluetooth,Eletrônicos,2129.37,1,RS
+22,2025-03-16,C235,Tênis de Corrida,Esporte,2013.55,2,CE
+23,2024-06-08,C199,Vestido,Moda,2426.34,2,RJ
+24,2025-05-24,C512,Perfume,Beleza,2026.63,1,SP
+25,2025-07-03,C287,Calça Jeans,Moda,1618.13,2,SC
+26,2025-03-04,C195,Bicicleta,Esporte,170.75,5,SP
+27,2024-11-26,C268,Luvas,Esporte,656.97,4,SP
+28,2024-06-25,C258,Tênis de Corrida,Esporte,1280.56,5,PE
+29,2024-12-19,C614,Notebook,MODA,190.35,5,PE
+30,2025-04-07,C513,Smartphone,MODA,224.19,1,RS
+31,2024-08-09,C678,Romance,Livros,1865.76,4,DF
+32,2024-01-11,C787,Shampoo,Beleza,731.28,4,MG
+33,2024-05-09,C175,Fone Bluetooth,Eletrônicos,1385.69,5,RJ
+34,2025-07-01,C261,Jogo de Panelas,Casa,2640.23,3,BA
+35,2024-11-29,C779,Perfume,Beleza,2010.23,5,BA
+36,2024-09-26,C834,Smartphone,Eletrônicos,831.6,5,RS
+37,2024-08-08,C749,Biografia,Livros,768.34,1,RJ
+38,2024-05-05,C822,Sofá,Casa,501.51,4,
+39,2024-06-21,C251,Jogo de Panelas,Casa,2507.09,5,CE
+40,2024-09-23,C462,Notebook,Eletrônicos,646.03,2,RJ
+41,2024-03-25,C919,Ficção Científica,Livros,2778.78,2,MG
+42,2024-03-18,C263,Maquiagem,Beleza,2410.66,2,BA
+43,2024-10-27,C412,Bola de Futebol,Esporte,614.73,4,PR
+44,2024-03-21,C891,Creme Facial,Beleza,1207.43,3,RJ
+45,2024-10-10,C282,Autoajuda,Livros,2818.93,1,BA
+46,2024-09-29,C494,Sofá,Eletronicos,1320.45,5,RJ
+47,2025-04-18,C738,Smartphone,Eletronicos,1105.38,1,PR
+48,2024-07-29,C813,Sofá,Casa,2007.34,3,SC
+49,2024-02-08,C661,Bola de Futebol,Esporte,1854.23,3,SC
+50,2024-12-27,C623,Autoajuda,Livros,1405.66,4,RS
+51,2025-02-25,C195,Camiseta Polo,Moda,865.68,5,PR
+52,2024-04-11,C586,Calça Jeans,Moda,459.11,1,RS
+53,2024-10-26,C509,Creme Facial,Beleza,2160.67,4,PE
+54,2024-03-07,C151,Vestido,Moda,672.15,5,PE
+55,2025-03-09,C424,Vestido,Moda,2009.38,5,DF
+56,2024-08-20,C262,Maquiagem,Beleza,2495.1,5,PE
+57,2025-05-08,C741,Tênis Casual,Moda,2302.12,5,PE
+58,2025-04-30,C241,Tênis Casual,Moda,1020.83,5,RJ
+59,2024-10-12,C577,Camiseta Polo,Moda,1256.31,3,CE
+60,2025-03-29,C588,Romance,Livros,,5,SC
+61,2024-06-03,C597,Bola de Futebol,Esporte,,3,SC
+62,2025-07-06,C646,Bola de Futebol,Esporte,,2,DF
+63,2024-02-29,C286,Fone Bluetooth,Eletrônicos,1935.39,2,PE
+64,2024-02-10,C870,Sofá,Casa,2288.46,4,BA
+65,2025-06-02,C329,Bicicleta,Esporte,2252.09,1,PR
+66,2024-07-01,C256,Smartphone,Eletrônicos,614.09,1,DF
+67,2024-08-17,C720,Vestido,Moda,2104.41,3,MG
+68,2024-03-07,C689,Tênis Casual,Moda,342.13,1,BA
+69,2024-07-04,C813,Creme Facial,Beleza,246.47,2,RJ
+70,2024-03-24,C170,Fone Bluetooth,Eletrônicos,1054.67,4,PR
+71,2024-10-27,C824,Bicicleta,Esporte,1311.9,3,PE
+72,2024-08-08,C576,Shampoo,Beleza,1855.42,5,PE
+73,2024-12-23,C868,Camiseta Polo,Moda,851.21,4,RS
+74,2025-05-13,C317,Carregador,Eletrônicos,2555.84,2,PE
+75,2024-10-15,C187,Autoajuda,Livros,1676.26,5,RS
+76,2024-05-11,C911,Vestido,Moda,,4,PE
+77,2024-10-19,C666,Tênis Casual,Moda,1998.6,3,PE
+78,2024-10-07,C357,Sofá,Casa,2114.51,3,BA
+79,2024-06-16,C841,Creme Facial,Beleza,590.79,4,BA
+80,2025-06-09,C409,Smartphone,Eletrônicos,,3,MG
+81,2024-07-31,C205,Notebook,Eletrônicos,2098.3,2,PE
+82,2025-07-04,C982,Tênis de Corrida,Esporte,569.4,1,BA
+83,2025-06-19,C187,Fone Bluetooth,Eletrônicos,472.15,5,BA
+84,2025-05-23,C553,Ficção Científica,Livros,2331.57,4,PE
+85,2024-03-01,C740,Romance,Livros,1836.7,1,RS
+86,2025-04-23,C805,Camiseta Polo,Moda,486.47,4,PE
+87,2025-05-13,C803,Shampoo,Beleza,2114.9,4,RJ
+88,2024-05-17,C763,Ficção Científica,Livros,1286.91,5,RS
+89,2025-02-23,C395,Smartphone,Eletrônicos,2382.03,5,DF
+90,2024-07-14,C182,Tênis de Corrida,Esporte,1511.41,4,PE
+91,2024-05-11,C701,Autoajuda,Livros,97.08,2,DF
+92,2024-12-30,C631,Jogo de Panelas,Casa,2294.06,2,PE
+93,2024-10-26,C581,Biografia,Livros,1911.66,4,RJ
+94,2024-08-02,C778,Tênis Casual,Moda,1246.7,4,BA
+95,2025-05-17,C891,Bicicleta,Esporte,957.26,3,RJ
+96,2025-06-23,C470,Maquiagem,Beleza,1251.48,2,CE
+97,2025-03-13,C548,Smartphone,Eletrônicos,815.83,2,BA
+98,2024-06-24,C517,Bola de Futebol,Esporte,946.04,1,CE
+99,2025-06-20,C833,Bicicleta,Esporte,1950.17,2,PE
+100,2024-09-13,C492,Luvas,Esporte,746.32,5,MG
+101,2024-02-18,C906,Camiseta Polo,Moda,843.22,4,PR
+102,2024-07-01,C595,Mesa de Jantar,Casa,2598.48,4,CE
+103,2024-01-30,C492,Tênis de Corrida,Esporte,2611.41,2,DF
+104,2024-09-07,C137,Maquiagem,eletrônicos,1170.51,2,PE
+105,2024-11-12,C839,Carregador,Eletrônicos,317.14,4,SP
+106,2024-07-31,C738,Carregador,Eletrônicos,2348.95,3,PR
+107,2024-02-26,C136,Maquiagem,Beleza,2863.34,4,CE
+108,2024-06-17,C878,Tapete,Casa,2245.36,4,RJ
+109,2025-03-21,C915,Shampoo,Beleza,2712.2,1,PR
+110,2024-09-06,C279,Vestido,Moda,1706.47,2,MG
+111,2024-06-19,C572,Vestido,Moda,2740.23,2,RS
+112,2025-05-29,C552,Tênis de Corrida,Esporte,2039.28,2,RJ
+113,2025-01-27,C493,Tênis de Corrida,Esporte,1381.37,3,RS
+114,2024-11-08,C949,Sofá,Casa,2978.22,3,SP
+115,2025-05-19,C894,Perfume,Beleza,2733.64,4,BA
+116,2024-12-27,C742,Creme Facial,Beleza,1870.26,2,RJ
+117,2024-04-25,C434,Autoajuda,Livros,2202.43,1,BA
+118,2024-07-29,C363,Autoajuda,Livros,1601.94,3,MG
+119,2024-04-23,C244,Sofá,Casa,2416.61,4,RJ
+120,2024-07-15,C192,Maquiagem,Beleza,2902.46,5,
+121,2025-03-17,C490,Tênis de Corrida,Esporte,2025.03,3,DF
+122,2025-02-27,C724,Vestido,Moda,94.57,5,PR
+123,2024-07-28,C146,Shampoo,Beleza,1954.73,1,MG
+124,2025-04-04,C564,Smartphone,Eletrônicos,2664.03,2,SC
+125,2024-12-03,C770,Biografia,Livros,1770.27,2,SC
+126,2025-04-03,C555,Jogo de Panelas,Casa,2077.04,2,PE
+127,2024-11-11,C225,Shampoo,Beleza,200.44,3,RS
+128,2024-10-13,C228,Bicicleta,Esporte,170.72,3,RS
+129,2024-06-24,C892,Ficção Científica,Livros,1767.42,2,PR
+130,2024-04-22,C776,Tapete,Casa,1629.84,2,RJ
+131,2025-02-04,C229,Tênis Casual,Moda,67.03,3,SP
+132,2025-01-23,C211,Luvas,Esporte,2338.49,5,DF
+133,2024-03-16,C590,Shampoo,Beleza,1384.97,1,SP
+134,2024-02-11,C722,Maquiagem,Beleza,239.0,1,PR
+135,2024-03-31,C401,Autoajuda,Livros,1155.1,5,CE
+136,2024-05-03,C447,Calça Jeans,Moda,1301.61,2,SC
+137,2025-05-07,C256,Mesa de Jantar,Casa,951.32,3,PR
+138,2024-05-09,C669,Camiseta Polo,Moda,1306.99,3,MG
+139,2025-06-17,C394,Perfume,Beleza,1244.21,4,SP
+140,2024-11-28,C458,Calça Jeans,Moda,1977.07,2,RJ
+141,2025-04-13,C728,Ficção Científica,Livros,2425.52,5,DF
+142,2024-02-24,C447,Shampoo,Beleza,106.28,3,BA
+143,2024-10-30,C864,Maquiagem,Beleza,227.36,1,RJ
+144,2024-10-28,C710,Tênis Casual,Moda,948.68,3,DF
+145,2025-04-12,C777,Romance,Livros,2028.43,3,PE
+146,2025-01-03,C794,Camiseta Polo,Moda,1048.62,1,BA
+147,2025-02-19,C107,Smartphone,Eletrônicos,1197.88,5,SP
+148,2024-07-19,C864,Sofá,Casa,997.8,1,PE
+149,2025-03-10,C119,Tênis Casual,Moda,234.78,1,SC
+150,2024-01-14,C217,Luvas,Esporte,2134.31,4,BA
+151,2025-06-17,C547,Biografia,Livros,2499.44,3,RJ
+152,2024-04-03,C326,Romance,Livros,1199.38,3,PR
+153,2025-06-18,C844,Smartphone,Eletrônicos,2719.65,3,PR
+154,2025-02-26,C256,Smartphone,Eletrônicos,782.79,2,DF
+155,2024-07-31,C559,Maquiagem,Beleza,1402.58,5,DF
+156,2025-05-17,C550,Autoajuda,Livros,2595.46,3,MG
+157,2024-09-26,C572,Jogo de Panelas,Casa,1068.79,1,BA
+158,2024-04-01,C573,Fone Bluetooth,Eletrônicos,1852.72,5,SC
+159,2024-08-20,C429,Carregador,Eletrônicos,2728.97,5,RS
+160,2024-12-08,C616,Bicicleta,Esporte,2436.68,3,RJ
+161,2024-05-07,C518,Bola de Futebol,Esporte,1104.42,3,SC
+162,2024-12-23,C390,Perfume,Beleza,1002.48,5,SC
+163,2024-01-08,C458,Ficção Científica,Livros,1013.42,5,MG
+164,2024-07-28,C932,Camiseta Polo,Moda,942.55,4,PR
+165,2025-01-28,C470,Perfume,Beleza,,4,CE
+166,2024-05-23,C179,Mesa de Jantar,Casa,592.18,2,MG
+167,2025-02-03,C711,Romance,Livros,1992.55,5,MG
+168,2024-03-28,C473,Ficção Científica,Livros,2169.13,1,SC
+169,2025-05-05,C928,Mesa de Jantar,Casa,717.33,2,BA
+170,2024-08-24,C614,Maquiagem,Beleza,1395.81,3,SC
+171,2025-05-16,C995,Ficção Científica,Livros,2621.55,1,PE
+172,2025-02-03,C560,Romance,Livros,869.49,2,BA
+173,2025-04-23,C154,Vestido,Moda,2656.2,1,SC
+174,2024-06-08,C959,Notebook,Eletrônicos,689.13,3,RJ
+175,2024-05-03,C877,Notebook,Eletrônicos,2753.84,4,MG
+176,2024-10-22,C844,Camiseta Polo,Moda,782.65,2,CE
+177,2024-05-10,C754,Tênis Casual,Moda,383.11,2,SC
+178,2025-02-27,C835,Bicicleta,Esporte,1903.23,5,RS
+179,2025-02-20,C469,Vestido,Moda,578.2,1,CE
+180,2024-01-06,C750,Romance,Livros,1183.55,4,SP
+181,2025-04-15,C852,Jogo de Panelas,Casa,1047.51,1,DF
+182,2024-09-13,C746,Tapete,Casa,2494.54,4,PE
+183,2025-01-19,C142,Bicicleta,Esporte,894.46,1,RS
+184,2024-01-21,C465,Biografia,Livros,774.88,2,BA
+185,2024-04-01,C861,Jogo de Panelas,Casa,2402.04,4,SC
+186,2024-10-13,C373,Vestido,Moda,2082.36,3,CE
+187,2024-08-31,C776,Sofá,Casa,977.21,1,PR
+188,2024-07-09,C729,Vestido,Moda,1067.61,1,PR
+189,2024-02-19,C625,Fone Bluetooth,Eletrônicos,2020.13,4,PR
+190,2024-07-11,C897,Vestido,Moda,123.7,1,RS
+191,2025-03-21,C554,Smartphone,Eletrônicos,2043.6,3,PR
+192,2024-03-07,C126,Tênis de Corrida,Esporte,1955.69,2,RJ
+193,2024-03-12,C319,Romance,Livros,800.09,3,PE
+194,2025-01-17,C276,Bola de Futebol,Esporte,385.46,1,PE
+195,2024-02-28,C397,Shampoo,Beleza,2134.43,5,CE
+196,2025-02-22,C224,Creme Facial,Beleza,2385.22,5,RS
+197,2024-04-12,C578,Bicicleta,Esporte,1095.47,5,PR
+198,2024-04-14,C520,Fone Bluetooth,Eletrônicos,941.69,4,CE
+199,2025-06-01,C231,Perfume,Beleza,1360.92,5,PR
+200,2025-01-09,C630,Calça Jeans,Moda,1309.2,1,RJ
+201,2025-03-08,C966,Creme Facial,Beleza,1051.15,5,BA
+202,2024-05-13,C195,Tapete,Casa,1882.57,5,CE
+203,2024-07-29,C962,Calça Jeans,Moda,1983.02,5,PR
+204,2025-02-18,C766,Fone Bluetooth,Eletrônicos,2846.67,5,BA
+205,2025-04-21,C757,Carregador,Eletrônicos,2669.21,5,BA
+206,2024-11-29,C261,Maquiagem,Beleza,906.35,1,SP
+207,2024-06-18,C508,Ficção Científica,Livros,951.5,3,PR
+208,2025-02-27,C353,Tapete,Casa,1410.09,3,PE
+209,2025-06-24,C691,Biografia,Livros,759.85,2,PR
+210,2024-06-10,C123,Biografia,Livros,1506.3,3,PE
+211,2024-09-04,C388,Calça Jeans,Moda,1758.37,1,SP
+212,2024-11-10,C237,Tênis de Corrida,Esporte,1619.34,1,SC
+213,2025-06-10,C299,Jogo de Panelas,Casa,1213.73,5,CE
+214,2025-05-24,C221,Tênis de Corrida,Esporte,2479.43,5,DF
+215,2024-10-22,C621,Sofá,Casa,2269.8,2,DF
+216,2024-12-11,C627,Maquiagem,Beleza,1567.61,2,DF
+217,2025-02-11,C645,Tênis de Corrida,Esporte,1789.3,5,CE
+218,2024-12-21,C697,Notebook,Eletrônicos,1007.09,1,SC
+219,2024-04-08,C691,Perfume,Beleza,1798.79,3,DF
+220,2024-07-16,C686,Biografia,Livros,460.37,2,SP
+221,2024-06-28,C613,Maquiagem,Beleza,471.27,2,SC
+222,2024-02-24,C674,Perfume,Beleza,2123.21,5,RS
+223,2024-09-24,C659,Tapete,Casa,1389.8,5,PR
+224,2024-01-22,C385,Shampoo,Beleza,1838.03,2,RS
+225,2025-04-06,C591,Sofá,Casa,2120.6,4,PR
+226,2025-03-11,C504,Sofá,Casa,383.18,5,SC
+227,2024-07-02,C552,Jogo de Panelas,Casa,877.14,1,PR
+228,2025-04-07,C211,Autoajuda,Livros,2800.41,3,MG
+229,2024-06-25,C523,Creme Facial,Beleza,1921.07,1,RJ
+230,2024-01-11,C768,Camiseta Polo,Moda,2894.27,2,SC
+231,2024-03-01,C767,Tênis Casual,Moda,977.08,1,RJ
+232,2025-05-10,C956,Smartphone,Eletrônicos,1265.3,2,SP
+233,2024-02-20,C209,Jogo de Panelas,Casa,47.62,5,DF
+234,2024-07-01,C579,Maquiagem,Beleza,2669.99,2,CE
+235,2024-02-27,C854,Maquiagem,Beleza,1951.89,2,SP
+236,2024-01-30,C627,Calça Jeans,Moda,1840.64,4,SC
+237,2024-09-18,C367,Mesa de Jantar,Casa,984.33,2,SP
+238,2024-03-01,C367,Sofá,Casa,1755.73,5,SP
+239,2025-02-08,C820,Vestido,Moda,934.28,4,CE
+240,2024-07-08,C589,Sofá,Casa,1851.58,2,MG
+241,2024-08-09,C796,Luvas,Esporte,2276.9,2,RS
+242,2025-06-08,C163,Autoajuda,eletrônicos,252.75,5,RJ
+243,2025-01-17,C219,Ficção Científica,Livros,510.32,5,PE
+244,2024-06-20,C625,Biografia,Livros,2429.9,4,MG
+245,2025-02-27,C936,Shampoo,Beleza,,4,BA
+246,2024-04-17,C583,Jogo de Panelas,Eletronicos,1632.67,1,RJ
+247,2025-03-24,C990,Maquiagem,Beleza,1135.89,4,PE
+248,2025-03-28,C641,Tênis Casual,MODA,373.53,5,SC
+249,2025-01-07,C644,Notebook,Eletrônicos,1399.75,5,SC
+250,2024-07-12,C928,Tênis Casual,Moda,581.67,1,SP
+251,2025-01-07,C134,Smartphone,Eletrônicos,634.12,1,DF
+252,2024-11-17,C322,Camiseta Polo,Moda,1218.75,2,CE
+253,2024-06-01,C691,Tapete,Casa,2451.04,5,PR
+254,2024-03-19,C523,Tapete,Casa,2957.37,5,RS
+255,2024-03-21,C607,Creme Facial,Beleza,1885.46,4,CE
+256,2025-05-31,C407,Tênis de Corrida,Esporte,2095.0,4,MG
+257,2024-12-05,C159,Tênis Casual,Moda,2575.47,2,PE
+258,2024-10-07,C762,Vestido,Moda,743.72,2,PR
+259,2024-11-30,C717,Ficção Científica,Livros,173.58,4,DF
+260,2024-11-20,C115,Ficção Científica,Livros,1448.59,3,BA
+261,2025-01-02,C506,Maquiagem,Beleza,2745.04,5,RS
+262,2024-02-17,C367,Luvas,Esporte,1610.28,3,BA
+263,2025-06-12,C479,Maquiagem,Beleza,2289.65,3,RS
+264,2025-05-27,C693,Creme Facial,Beleza,68.34,5,DF
+265,2025-05-21,C663,Vestido,Moda,1717.97,2,PE
+266,2024-03-22,C243,Luvas,Esporte,1393.27,3,MG
+267,2024-02-22,C882,Romance,Livros,,1,SP
+268,2024-11-13,C482,Smartphone,Eletrônicos,47.24,5,PE
+269,2024-09-25,C521,Luvas,Esporte,,5,CE
+270,2024-03-30,C209,Jogo de Panelas,Casa,1516.6,4,MG
+271,2024-07-17,C180,Autoajuda,Livros,2449.34,3,SC
+272,2024-06-02,C195,Creme Facial,Beleza,913.92,1,SP
+273,2024-06-01,C965,Perfume,Beleza,2114.48,1,PE
+274,2025-02-25,C377,Fone Bluetooth,Eletrônicos,704.7,5,PE
+275,2024-12-19,C312,Romance,Livros,554.48,3,SP
+276,2024-04-23,C680,Bicicleta,Esporte,911.85,5,RS
+277,2024-11-28,C612,Mesa de Jantar,Casa,2271.72,2,RJ
+278,2024-05-27,C506,Bicicleta,Esporte,1034.97,5,DF
+279,2024-08-09,C542,Luvas,Esporte,699.85,5,SC
+280,2024-12-30,C374,Autoajuda,Livros,2398.2,1,RJ
+281,2024-07-18,C105,Maquiagem,Beleza,963.7,1,RJ
+282,2024-03-04,C670,Smartphone,Eletrônicos,280.15,4,PE
+283,2024-12-15,C112,Perfume,Beleza,1798.84,3,SC
+284,2025-03-08,C375,Calça Jeans,MODA,2062.24,2,MG
+285,2024-03-22,C357,Mesa de Jantar,Eletronicos,913.26,1,PR
+286,2024-02-14,C106,Ficção Científica,Livros,1384.43,2,BA
+287,2025-05-26,C407,Mesa de Jantar,Casa,1017.51,5,MG
+288,2025-02-28,C852,Tapete,Casa,2894.43,3,BA
+289,2024-01-17,C216,Tênis Casual,Moda,1140.64,4,PR
+290,2024-03-18,C548,Camiseta Polo,Moda,2859.95,4,RS
+291,2024-07-07,C358,Maquiagem,Eletronicos,434.75,3,RS
+292,2024-05-14,C510,Carregador,Eletrônicos,2972.29,4,DF
+293,2024-11-16,C708,Bicicleta,Esporte,2376.35,3,CE
+294,2025-01-17,C676,Shampoo,Beleza,515.69,5,SP
+295,2025-01-13,C327,Mesa de Jantar,Casa,335.71,1,BA
+296,2024-06-20,C890,Ficção Científica,Livros,1348.42,4,PE
+297,2024-11-12,C218,Carregador,Eletrônicos,331.56,4,RJ
+298,2024-02-20,C456,Mesa de Jantar,Casa,2357.12,5,PE
+299,2024-05-12,C969,Jogo de Panelas,Casa,914.79,1,SP
+300,2024-10-26,C438,Creme Facial,Beleza,1557.66,5,MG
+301,2024-01-07,C129,Bola de Futebol,Esporte,575.43,4,SC
+302,2024-11-04,C385,Luvas,Esporte,33.26,2,RS
+303,2024-07-29,C216,Calça Jeans,Moda,1110.06,2,PE
+304,2024-12-24,C701,Shampoo,Beleza,1798.97,5,SC
+305,2024-08-14,C788,Tênis Casual,Moda,2757.67,5,RJ
+306,2024-11-29,C528,Tênis Casual,Moda,2086.44,5,SC
+307,2025-06-30,C243,Bola de Futebol,Esporte,1673.64,4,BA
+308,2025-03-12,C675,Jogo de Panelas,Casa,1464.13,2,SC
+309,2025-06-03,C131,Luvas,Esporte,1476.32,1,DF
+310,2025-01-18,C860,Tênis de Corrida,Esporte,521.26,4,DF
+311,2024-05-05,C655,Romance,Livros,818.31,5,PR
+312,2024-06-01,C404,Ficção Científica,Livros,2969.53,1,RS
+313,2024-08-23,C314,Carregador,Eletrônicos,2598.57,1,RS
+314,2024-06-23,C933,Maquiagem,Beleza,514.63,2,RS
+315,2024-02-20,C686,Tapete,Casa,984.49,3,BA
+316,2025-03-30,C383,Perfume,Beleza,424.05,4,SP
+317,2025-03-02,C601,Calça Jeans,Moda,2139.96,2,SC
+318,2024-02-22,C627,Luvas,Esporte,245.04,1,SC
+319,2024-09-05,C848,Luvas,Esporte,995.32,1,RJ
+320,2024-02-19,C606,Carregador,Eletrônicos,669.13,4,RS
+321,2024-02-13,C798,Ficção Científica,Livros,1707.1,4,PR
+322,2025-04-03,C567,Bicicleta,Esporte,,2,PE
+323,2025-01-10,C995,Creme Facial,Beleza,2648.8,3,MG
+324,2025-01-30,C505,Jogo de Panelas,Casa,1128.09,2,SP
+325,2025-02-21,C588,Bicicleta,Esporte,2117.02,1,RS
+326,2024-05-07,C980,Bicicleta,Esporte,44.03,3,RJ
+327,2024-02-19,C240,Fone Bluetooth,Eletronicos,327.54,3,BA
+328,2025-02-03,C724,Creme Facial,Beleza,223.87,5,SP
+329,2024-03-08,C980,Creme Facial,Beleza,2761.28,5,PE
+330,2024-05-29,C910,Carregador,Eletrônicos,1067.58,4,PR
+331,2024-02-28,C310,Autoajuda,MODA,2341.33,1,BA
+332,2025-04-12,C495,Jogo de Panelas,Casa,2355.73,2,PE
+333,2024-02-27,C496,Romance,Livros,2960.91,3,MG
+334,2025-06-13,C701,Creme Facial,Beleza,2292.92,1,SP
+335,2024-07-06,C533,Carregador,Eletrônicos,1529.7,5,SC
+336,2024-11-14,C623,Ficção Científica,Livros,846.85,3,RJ
+337,2024-04-08,C815,Mesa de Jantar,Casa,1767.58,1,BA
+338,2025-03-23,C726,Camiseta Polo,Moda,2775.39,1,PE
+339,2024-07-15,C267,Creme Facial,Beleza,375.94,2,SP
+340,2025-03-30,C850,Shampoo,Beleza,517.55,2,BA
+341,2025-04-11,C608,Jogo de Panelas,Eletronicos,803.59,5,RJ
+342,2024-02-05,C687,Ficção Científica,Livros,1115.71,3,RJ
+343,2025-05-01,C147,Fone Bluetooth,Eletrônicos,2578.89,1,RS
+344,2024-03-09,C837,Carregador,Eletrônicos,689.06,2,SC
+345,2024-11-26,C510,Fone Bluetooth,Eletrônicos,554.45,5,SP
+346,2025-05-30,C477,Sofá,Casa,277.43,4,SP
+347,2025-04-03,C891,Ficção Científica,Livros,1402.5,5,PE
+348,2025-03-20,C338,Calça Jeans,Moda,39.01,4,SP
+349,2025-02-15,C206,Notebook,Eletrônicos,24.36,4,BA
+350,2024-09-07,C337,Smartphone,Eletrônicos,2140.72,1,SP
+351,2024-07-26,C197,Mesa de Jantar,Casa,2924.17,1,DF
+352,2024-06-12,C398,Romance,Livros,1316.25,2,RS
+353,2025-06-09,C176,Shampoo,Beleza,967.81,3,RS
+354,2024-09-06,C421,Smartphone,Eletrônicos,334.86,4,PE
+355,2024-07-09,C192,Vestido,Moda,938.76,3,RJ
+356,2024-07-30,C193,Perfume,Beleza,660.76,3,MG
+357,2024-11-08,C514,Notebook,Eletrônicos,795.3,2,SP
+358,2024-04-16,C112,Carregador,Eletrônicos,323.68,2,RJ
+359,2025-06-10,C700,Vestido,Moda,1129.27,1,DF
+360,2025-05-21,C194,Calça Jeans,Moda,2709.44,4,MG
+361,2024-08-26,C941,Carregador,Eletrônicos,170.9,5,SC
+362,2024-12-26,C386,Bola de Futebol,Esporte,1074.75,2,BA
+363,2024-09-07,C663,Ficção Científica,Livros,1948.89,4,SC
+364,2024-03-02,C745,Bola de Futebol,Esporte,1935.1,5,RS
+365,2024-01-13,C679,Shampoo,Eletronicos,1449.46,4,PR
+366,2024-12-26,C928,Tapete,Casa,107.32,3,SP
+367,2025-05-02,C646,Calça Jeans,Moda,318.4,2,BA
+368,2025-03-18,C342,Luvas,Esporte,1077.32,2,MG
+369,2024-03-23,C677,Romance,Livros,2116.29,3,DF
+370,2024-03-02,C157,Tênis de Corrida,Esporte,543.16,1,RJ
+371,2025-02-26,C448,Notebook,Eletrônicos,2755.33,2,MG
+372,2024-06-19,C892,Jogo de Panelas,Casa,85.3,5,MG
+373,2025-02-01,C203,Notebook,Eletrônicos,2119.52,4,DF
+374,2024-07-29,C278,Maquiagem,Beleza,2379.69,4,PR
+375,2024-04-17,C487,Autoajuda,Livros,685.25,5,MG
+376,2024-10-03,C971,Perfume,Beleza,2847.39,5,SC
+377,2024-02-28,C244,Creme Facial,Beleza,1926.15,1,PE
+378,2024-07-13,C557,Tapete,Casa,,1,PR
+379,2024-10-19,C495,Sofá,Casa,2365.32,1,SP
+380,2024-08-14,C484,Luvas,Esporte,2647.68,3,CE
+381,2024-05-07,C401,Creme Facial,Beleza,,1,SP
+382,2024-12-11,C660,Tapete,Casa,2666.04,2,RJ
+383,2025-03-02,C721,Biografia,Livros,2119.42,4,MG
+384,2025-07-05,C371,Calça Jeans,Moda,1239.65,5,CE
+385,2024-08-27,C537,Biografia,Eletronicos,477.7,3,SP
+386,2025-04-25,C753,Bola de Futebol,Esporte,309.02,2,MG
+387,2025-05-27,C757,Mesa de Jantar,Casa,1423.41,3,RJ
+388,2025-02-19,C576,Tapete,Casa,1348.41,3,PE
+389,2024-01-12,C523,Camiseta Polo,Moda,275.41,3,CE
+390,2025-06-07,C341,Luvas,Esporte,2897.57,4,DF
+391,2025-03-11,C793,Perfume,Beleza,1516.26,5,DF
+392,2024-08-25,C927,Bola de Futebol,Esporte,2848.2,2,RS
+393,2025-06-04,C844,Calça Jeans,Eletronicos,2505.64,3,PR
+394,2024-03-26,C994,Tênis de Corrida,Esporte,,5,PE
+395,2024-04-19,C702,Bicicleta,Esporte,1255.04,2,DF
+396,2024-07-29,C998,Fone Bluetooth,Eletrônicos,2361.52,5,PR
+397,2024-04-04,C247,Biografia,Livros,131.65,3,SC
+398,2024-03-29,C375,Tênis de Corrida,Esporte,2077.73,1,PE
+399,2025-03-10,C989,Sofá,Casa,855.43,4,RJ
+400,2024-05-05,C292,Sofá,Casa,2191.82,5,RJ
+401,2024-08-04,C167,Tênis de Corrida,Esporte,2466.63,5,MG
+402,2024-08-11,C355,Romance,Livros,537.74,2,SP
+403,2025-04-19,C506,Tênis Casual,Moda,1117.69,4,CE
+404,2024-06-17,C700,Maquiagem,Beleza,1790.25,2,PE
+405,2024-09-28,C266,Jogo de Panelas,Casa,869.51,4,SP
+406,2024-06-12,C625,Calça Jeans,Moda,,3,SC
+407,2025-06-22,C920,Carregador,Eletrônicos,,2,DF
+408,2025-05-12,C570,Sofá,Casa,1282.94,4,PR
+409,2024-07-29,C778,Biografia,Livros,1761.77,1,CE
+410,2025-02-01,C165,Autoajuda,Livros,909.46,1,PE
+411,2025-01-19,C253,Sofá,Casa,1975.24,3,RS
+412,2024-07-19,C402,Shampoo,Eletronicos,2048.65,1,PE
+413,2024-02-14,C753,Smartphone,Eletrônicos,1042.64,2,CE
+414,2024-03-17,C400,Autoajuda,Livros,2539.35,5,MG
+415,2025-05-12,C327,Ficção Científica,Livros,2841.83,3,RJ
+416,2024-11-30,C971,Sofá,Casa,796.47,3,PE
+417,2024-08-07,C222,Romance,Livros,1427.21,2,CE
+418,2024-02-09,C519,Smartphone,Eletrônicos,429.35,2,PR
+419,2024-01-08,C599,Tênis Casual,Moda,2589.93,2,RJ
+420,2024-09-21,C690,Fone Bluetooth,Eletrônicos,1367.12,2,MG
+421,2024-04-16,C539,Smartphone,Eletrônicos,1851.15,4,SC
+422,2025-05-14,C295,Tênis de Corrida,Esporte,,3,
+423,2024-07-27,C615,Tênis Casual,Moda,950.03,1,SC
+424,2024-05-10,C636,Sofá,Casa,1378.66,5,DF
+425,2024-12-14,C931,Mesa de Jantar,Casa,1090.57,2,MG
+426,2025-03-09,C273,Calça Jeans,Moda,2207.55,5,CE
+427,2024-12-03,C708,Tênis de Corrida,Esporte,2318.32,5,SP
+428,2025-03-16,C489,Fone Bluetooth,Eletrônicos,2075.45,4,PE
+429,2024-01-13,C376,Camiseta Polo,Moda,917.33,1,CE
+430,2024-04-01,C303,Fone Bluetooth,Eletrônicos,862.47,1,PE
+431,2024-03-04,C140,Tênis Casual,Moda,2116.24,3,MG
+432,2025-06-25,C213,Tênis de Corrida,Esporte,718.83,1,RJ
+433,2024-04-30,C759,Fone Bluetooth,Eletrônicos,2176.22,1,BA
+434,2025-03-04,C972,Bicicleta,Esporte,317.43,2,SP
+435,2024-02-02,C972,Perfume,Beleza,303.1,1,SP
+436,2024-10-18,C934,Tênis de Corrida,Esporte,2637.86,1,PR
+437,2025-04-02,C764,Tênis de Corrida,Esporte,2510.41,4,SC
+438,2025-03-10,C526,Perfume,Beleza,2945.08,2,RJ
+439,2024-04-30,C129,Bola de Futebol,Esporte,1841.74,3,DF
+440,2024-12-04,C551,Vestido,Moda,2762.79,1,SC
+441,2024-04-13,C635,Creme Facial,Beleza,2934.13,3,CE
+442,2024-02-07,C959,Creme Facial,Beleza,1456.15,4,MG
+443,2024-09-01,C990,Smartphone,Eletrônicos,1526.59,4,PE
+444,2024-10-15,C758,Sofá,Casa,170.05,2,CE
+445,2024-02-05,C423,Biografia,eletrônicos,282.3,4,PE
+446,2024-10-09,C100,Carregador,Eletrônicos,1248.77,5,CE
+447,2024-06-17,C770,Shampoo,Beleza,2672.53,5,RS
+448,2025-06-18,C885,Smartphone,Eletrônicos,2536.07,3,CE
+449,2024-07-17,C449,Maquiagem,Beleza,359.79,2,SP
+450,2025-06-07,C604,Autoajuda,Livros,2112.25,1,MG
+451,2024-03-25,C972,Notebook,Eletrônicos,1840.34,2,RJ
+452,2024-10-06,C748,Shampoo,Beleza,341.14,4,SP
+453,2025-03-15,C610,Luvas,Esporte,,5,MG
+454,2024-11-16,C277,Luvas,Esporte,2774.63,2,DF
+455,2025-05-02,C723,Autoajuda,Livros,1522.25,4,SC
+456,2024-05-05,C522,Sofá,Casa,1369.48,2,MG
+457,2024-07-07,C305,Shampoo,Beleza,2141.39,5,RS
+458,2024-05-11,C655,Creme Facial,Beleza,2944.38,2,CE
+459,2024-05-22,C392,Mesa de Jantar,Casa,1756.76,4,CE
+460,2024-11-21,C304,Camiseta Polo,Moda,1154.99,1,SP
+461,2024-01-25,C308,Shampoo,Beleza,456.36,1,BA
+462,2024-05-24,C343,Smartphone,Eletrônicos,2232.39,5,SC
+463,2024-09-20,C907,Perfume,Beleza,2780.92,4,SC
+464,2024-11-20,C748,Notebook,Eletrônicos,625.2,4,RS
+465,2025-06-09,C559,Ficção Científica,Livros,2332.92,2,BA
+466,2024-07-16,C669,Camiseta Polo,Moda,1144.05,4,BA
+467,2024-07-31,C257,Notebook,Eletrônicos,1409.67,2,SP
+468,2024-05-08,C466,Shampoo,Beleza,1481.84,5,CE
+469,2025-07-03,C656,Camiseta Polo,Moda,2363.05,2,SC
+470,2024-03-29,C870,Tênis Casual,Moda,1006.58,3,RS
+471,2024-10-29,C346,Perfume,Beleza,361.87,3,PE
+472,2024-02-05,C362,Notebook,Eletrônicos,1156.49,1,SC
+473,2025-01-05,C428,Mesa de Jantar,Casa,1470.68,3,RS
+474,2024-06-26,C985,Romance,Livros,1888.26,2,RS
+475,2024-06-09,C124,Maquiagem,Beleza,1946.75,1,MG
+476,2024-12-28,C688,Smartphone,Eletrônicos,2386.76,5,RJ
+477,2024-10-03,C789,Luvas,Esporte,1310.41,1,
+478,2024-08-30,C614,Fone Bluetooth,Eletrônicos,2108.63,1,PR
+479,2024-06-30,C504,Notebook,Eletrônicos,2300.52,4,SC
+480,2024-06-27,C749,Calça Jeans,Moda,2245.33,5,BA
+481,2024-01-24,C995,Shampoo,Beleza,2873.03,1,CE
+482,2025-06-01,C522,Romance,Eletronicos,927.98,3,RS
+483,2024-06-04,C217,Calça Jeans,Moda,1858.32,3,RS
+484,2024-11-10,C787,Biografia,Livros,1941.13,1,BA
+485,2024-09-16,C391,Tênis de Corrida,Esporte,1084.27,2,RJ
+486,2024-08-09,C256,Tênis de Corrida,Esporte,1856.7,3,DF
+487,2024-02-28,C829,Bola de Futebol,Esporte,34.4,2,RS
+488,2024-08-09,C467,Tênis Casual,Moda,2636.1,4,PE
+489,2024-10-04,C301,Perfume,Beleza,2528.54,2,CE
+490,2025-05-18,C692,Camiseta Polo,Moda,2551.77,1,DF
+491,2025-02-04,C769,Autoajuda,Livros,1639.54,5,PE
+492,2024-11-11,C192,Autoajuda,Livros,418.97,5,CE
+493,2025-06-16,C263,Ficção Científica,Livros,2276.47,2,PE
+494,2025-02-25,C879,Vestido,Moda,2818.74,1,RS
+495,2024-09-19,C580,Smartphone,Eletrônicos,1563.3,3,SC
+496,2024-01-27,C954,Perfume,Beleza,2117.13,5,BA
+497,2024-04-04,C357,Luvas,Esporte,1108.58,1,CE
+498,2024-07-26,C106,Sofá,Casa,1470.85,4,DF
+499,2024-05-23,C470,Notebook,Eletrônicos,650.32,2,MG
+500,2025-03-31,C590,Tênis de Corrida,Esporte,2166.36,4,PE
